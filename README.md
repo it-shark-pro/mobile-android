@@ -45,11 +45,12 @@
 
 ## Сообщество и помощь
 - [Android News - Telegram](https://t.me/android_ru)
+- [2ch Android Development Thread](https://2ch.hk/pr/res/1127618.html)
 
 ## Другие списки / ссылки
 
 ## Наши материалы
-- [Рекомендации по изучению iOS](/learning-path.md)
+> TODO
 
 
 #### Обозначения
