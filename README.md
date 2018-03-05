@@ -66,7 +66,7 @@
 ## Другие списки / ссылки
 - [Android arsenal](https://android-arsenal.com/) :uk:
 - [Подборка awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries) :uk:
-- [Подборка awesome-android-libraries](https://github.com/wasabeef/awesome-android-ui) :uk:
+- [Подборка awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) :uk:
 
 ## Наши материалы
 > TODO
