@@ -1,3 +1,5 @@
+# Android Learning Path
+Здесь можно найти темы по разработке на платформе Android. Все темы поделены на 3 уровня (Novice, Intermediate, Advanced). К каждой теме дополнительно есть ссылка, перейдя по которой Вы можете найти полезную информацию по выбранной теме. Так же к темам будут закреплены дополнительные материалы (проекты, ассайменты и т.д.), которые Вы так же можете использовать для своего обучения.
 
 ## Novice
 - [ ] Android Platform
@@ -41,7 +43,7 @@
         - [ ] Backward compatibility
             - [ ] [Support Library Features](https://developer.android.com/topic/libraries/support-library/features.html)
             - [ ] :notebook: [Abstracting the New APIs](https://developer.android.com/training/backward-compatible-ui/abstracting.html)
-            - [ ] :notebook: [Proxying to the New APIs]https://developer.android.com/training/backward-compatible-ui/new-implementation.html)
+            - [ ] :notebook: [Proxying to the New APIs](https://developer.android.com/training/backward-compatible-ui/new-implementation.html)
             - [ ] :notebook: [Creating an Implementation with Older APIs](https://developer.android.com/training/backward-compatible-ui/older-implementation.html)
             - [ ] [Using the Version-Aware Component](https://developer.android.com/training/backward-compatible-ui/using-component.html)
         - [ ] Tools
@@ -78,10 +80,10 @@
         - [ ] [Shared Files](http://developer.android.com/guide/topics/data/data-storage.html#filesExternal)
 - [ ] Android Google Services
     - [ ] Location API
-        - [ ] :notebook: [Including Google Play Services library] (http://developer.android.com/google/play-services/setup.html)
-        - [ ] :notebook: [LocationClient & LocationRequest] (https://developer.android.com/reference/com/google/android/gms/location/LocationRequest.html)
-        - [ ] :notebook: [Receiving location updates] (http://developer.android.com/training/location/receive-location-updates.html)
-        - [ ] :notebook: [Retrieving the current location] (http://developer.android.com/training/location/retrieve-current.html)
+        - [ ] :notebook: [Including Google Play Services library](http://developer.android.com/google/play-services/setup.html)
+        - [ ] :notebook: [LocationClient & LocationRequest](https://developer.android.com/reference/com/google/android/gms/location/LocationRequest.html)
+        - [ ] :notebook: [Receiving location updates](http://developer.android.com/training/location/receive-location-updates.html)
+        - [ ] :notebook: [Retrieving the current location](http://developer.android.com/training/location/retrieve-current.html)
 - [ ] Android Connectivity
     - [ ] Networking in Android
         - [ ] Performing Network Operations
@@ -128,18 +130,7 @@
         - [ ] Performing Network Operations
             - [ ] [Connecting to the Network](https://developer.android.com/training/basics/network-ops/connecting.html)
 
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
+Есть идеи по развитию или просто хотите исправить ошибку? Вы можете [написать нам](https://github.com/it-shark-pro/mobile-android/issues/new)!
+
+---
+[![Лицензия Creative Commons](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/) IT Shark Community
