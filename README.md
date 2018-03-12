@@ -17,7 +17,8 @@
 - [Шкодим под Android](http://developer.alexanderklimov.ru/android/)
 
 ## Книги
-- Thinking in Java [(RU)](https://itunes.apple.com/us/book/intro-to-app-development-with-swift/id1118575552?mt=11) [(EN)](https://sophia.javeriana.edu.co/~cbustaca/docencia/POO-2016-01/documentos/Thinking_in_Java_4th_edition.pdf)
+- [Thinking in Java](https://www.ozon.ru/context/detail/id/142431463/?gclid=CjwKCAiA_ojVBRAlEiwAOLRxI-lDZlI8rydYRjmQR6zEDhGsE8LNtGKulfBObTht5od17DR8S09UkBoCqhMQAvD_BwE)
+- [Thinking in Java](https://www.amazon.com/Thinking-Java-4th-Bruce-Eckel/dp/0131872486) :uk:
 - [The Big Nerd Ranch Guide](http://ptgmedia.pearsoncmg.com/images/9780321804334/samplepages/0321804333.pdf) :uk:
 - [Android Notes for Professionals](http://books.goalkicker.com/AndroidBook/) :uk:
 - [The Busy Coder's Guide to Advanced Android Development](https://commonsware.com/AdvAndroid/AdvAndroid-1_9_2-CC.pdf) :uk:
