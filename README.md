@@ -70,7 +70,7 @@
 - [Подборка awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) :uk:
 
 ## Наши материалы
-> TODO
+- [Рекомендации по изучению Android](/learning-path.md)
 
 #### Обозначения
 - :uk: - Материалы на английском языке
