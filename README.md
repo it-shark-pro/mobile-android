@@ -9,6 +9,7 @@
 ## Лекции / Курсы / Туториалы 
 - [Training Google](https://developer.android.com/guide/index.html)
 - [Training Udacity](https://www.udacity.com/google) :uk:
+- [CodePath Android](https://guides.codepath.com/android) :uk:
 - [Руководство “Android-разработка с Android Studio”](http://www.vogella.com/tutorials/Android/article.html) :uk:
 - [Лабораторные от Google](https://codelabs.developers.google.com/?cat=Android) :uk:
 - [Словарь Android-разработчика](https://developers.google.com/android/for-all/vocab-words/) :uk:
